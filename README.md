@@ -1,4 +1,4 @@
-# Sujal-
+# Sujal write a stack-
 
 #include <stdio.h>
 #include <stdlib.h>
